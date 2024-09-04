@@ -205,11 +205,13 @@ nav ul li a {
   margin-bottom: 30px;
 }
 .item-black {
-  height: 270px;
+  height: 400px;
   border: 2px solid #111;
   border-radius: 15px;
 }
-
+.item-black h3 {
+  margin-top: 20px;
+}
 .product-item img {
   width: 100%;
   height: auto;
@@ -314,7 +316,7 @@ nav ul li a {
 
 .printing-advantages-section .item-black .menu-price {
   color: green;
-  font-size: 24px;
+  font-size: 32px;
   font-weight: bold;
 }
 .printing-advantages-section .item-black p {
